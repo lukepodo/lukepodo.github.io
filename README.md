@@ -1,2 +1,1 @@
-My Website
-Welcome to my website
+Personal website
